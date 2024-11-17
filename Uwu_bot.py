@@ -46,5 +46,5 @@ async def hug(ctx, *, member: discord.Member = None):
         await ctx.send(f"{ctx.author.mention} gives evewyone a big hug! 💞✨")
 
 #zi Token 
-bot.run("MTMwNzY0MjM3OTIzMDI1MzEyNg.GvnCCb.LMXKGBa0e3zKk9_rdj8aAOUwjpuVWhhlmZ5P1o")
+bot.run("PUT YOUR TOKEN HERE")
 
