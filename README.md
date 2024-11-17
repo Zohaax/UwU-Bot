@@ -14,10 +14,6 @@ pip install discord.py
 
 Setup:
 
-Clone the repository:
-git clone https://github.com/your-username/uwu-bot.git
-cd uwu-bot
-
 Create a bot on Discord Developer Portal:
 
 1. Go to the Discord Developer Portal.
