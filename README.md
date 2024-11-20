@@ -33,7 +33,7 @@ python uwu_bot.py
 
 List of Commands: 
 
-1. !uwuify <text>
+1. /uwuify <text>
 Converts the provided text into the cute UwU language.
 
 Example:
@@ -41,7 +41,7 @@ Example:
 Response:
 Hewwo, how awe you? UwU
 
-2. !hug <@user>
+2. /hug <@user>
 Send a virtual hug to someone.
 
 Example:
